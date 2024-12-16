@@ -6,7 +6,7 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 
 🔭 I’ve worked on projects that have reached millions, and I skilled in Java, Python, and Node.js, with a strong track record of designing scalable systems and enhancing process efficiency through innovative software solutions.
 
-[![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Instagram][3.1]][insta]
+[![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Gmail][3.1]][gmail]
 
 ## 🚀 What I'm up to
 - Searching for a full-time where I can experiment and contribute with my enthusiam
