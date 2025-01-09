@@ -15,7 +15,7 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 ## 🛠️ My Toolbox
 - **Languages:** Python, Java, C/C++, JavaScript, C#
 - **Frameworks:** Spring Boot, Django, Vue, React, Nodejs, ASP.NET, Flask
-- **Technologies:** Docker, Terraform, VS Code, Visual Studio, IntelliJ
+- **Technologies:** Docker, Terraform
 
 ## 👀 More About Me
 - I enjoy watching soccer, Manchester is red. Investing.
