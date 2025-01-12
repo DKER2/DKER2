@@ -24,7 +24,7 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 [1.1]: https://img.shields.io/badge/Twitter-00acee
 [2.1]: https://img.shields.io/badge/Linked_In-0e76a8
 [3.1]: https://img.shields.io/badge/pdanghuy03@gmail.com-d44638
-[4.1]: https://img.shields.io/badge/Website-d44638
+[4.1]: https://img.shields.io/badge/Website-03fc62
 
 [linkedin]: https://www.linkedin.com/in/dang-huy-phuong-3424bb220/
 [twitter]: https://x.com/PhngngHuy1
