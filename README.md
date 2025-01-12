@@ -6,7 +6,7 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 
 🔭 I’ve worked on projects that have reached millions, and I skilled in Java, Python, and Node.js, with a strong track record of designing scalable systems and enhancing process efficiency through innovative software solutions.
 
-[![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Gmail][3.1]][gmail]
+[![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Gmail][3.1]][gmail] [![Website][3.1]][website]
 
 ## 🚀 What I'm up to
 - Searching for a full-time where I can experiment and contribute with my enthusiam
@@ -28,3 +28,4 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 [linkedin]: https://www.linkedin.com/in/dang-huy-phuong-3424bb220/
 [twitter]: https://x.com/PhngngHuy1
 [gmail]: mailto:pdanghuy03@gmail.com
+[website]: https://dker2.github.io/personalwebsite/
