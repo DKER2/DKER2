@@ -18,7 +18,7 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 - **Technologies:** Docker, Terraform
 
 ## 👀 More About Me
-- I enjoy watching soccer, Manchester is red. Investing.
+- I enjoy watching soccer, Manchester is red. Investing in assets.
 - On weekends, I love sleeping and spending quality time with friends and family.
 
 [1.1]: https://img.shields.io/badge/Twitter-00acee
