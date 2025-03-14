@@ -21,6 +21,8 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 - I enjoy watching soccer, Manchester is red. Investing in assets.
 - On weekends, I love sleeping and spending quality time with friends and family.
 
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DKER2&theme=github-compact&custom_title=Bryan%20Activity%20Graph&hide_border=true)
+
 [1.1]: https://img.shields.io/badge/Twitter-00acee
 [2.1]: https://img.shields.io/badge/Linked_In-0e76a8
 [3.1]: https://img.shields.io/badge/pdanghuy03@gmail.com-d44638
