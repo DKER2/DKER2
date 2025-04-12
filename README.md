@@ -9,7 +9,7 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 [![Twitter][1.1]][twitter]  [![LinkedIn][2.1]][linkedin]  [![Gmail][3.1]][gmail] [![Website][4.1]][website]
 ![](https://komarev.com/ghpvc/?username=DKER2)
 ## 🚀 What I'm up to
-- Searching for a full-time where I can experiment and contribute with my enthusiam
+- Recognizing pain point and building applicaiton to solve it
 - Exploring AI and it's application. Quantum Computing
 
 ## 🛠️ My Toolbox
