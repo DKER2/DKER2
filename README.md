@@ -28,7 +28,7 @@ Passionate about leveraging emerging technologies to tackle real-world challenge
 [3.1]: https://img.shields.io/badge/pdanghuy03@gmail.com-d44638
 [4.1]: https://img.shields.io/badge/Website-03fc62
 
-[linkedin]: https://www.linkedin.com/in/dang-huy-phuong-3424bb220/
+[linkedin]: https://www.linkedin.com/in/bryan-dang-3424bb220/
 [twitter]: https://x.com/PhngngHuy1
 [gmail]: mailto:pdanghuy03@gmail.com
 [website]: https://dker2.github.io/personalwebsite/
