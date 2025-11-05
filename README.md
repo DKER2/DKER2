@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bryan!
 
-Aspiring Final Year Computer Engineering student at Nanyang Technological University with 3 years of hands-on experience in backend development. 
+Aspiring Fresh Grad from NTU. 
 
 Passionate about leveraging emerging technologies to tackle real-world challenges and deliver impactful results.
 
