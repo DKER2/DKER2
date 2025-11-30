@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Bryan!
 
-Aspiring Fresh Grad from NTU. 
+Aspiring Software Engineer.
+
+Contributing to RUST eco systemt
 
 Passionate about leveraging emerging technologies to tackle real-world challenges and deliver impactful results.
 
