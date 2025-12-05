@@ -2,7 +2,7 @@
 
 Aspiring Software Engineer.
 
-Contributing to RUST eco systemt
+Contributing to RUST eco-system
 
 Passionate about leveraging emerging technologies to tackle real-world challenges and deliver impactful results.
 
