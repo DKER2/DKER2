@@ -2,8 +2,6 @@
 
 Aspiring Software Engineer.
 
-Contributing to RUST eco-system
-
 Passionate about leveraging emerging technologies to tackle real-world challenges and deliver impactful results.
 
 🔭 I’ve worked on projects that have reached millions, and I skilled in Java, Python, and Node.js, with a strong track record of designing scalable systems and enhancing process efficiency through innovative software solutions.
