@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bryan!
 
-Aspiring Software Engineer.
+Rising Software Engineer.
 
 Passionate about leveraging emerging technologies to tackle real-world challenges and deliver impactful results.
 
