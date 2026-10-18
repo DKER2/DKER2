@@ -34,7 +34,12 @@
 
 - **[opencode-skill-tracker](https://github.com/DKER2/opencode-skill-tracker)** - Local-first usage tracking for OpenCode skills, commands, tools and subagents, stored in SQLite.
 - **[Stock Analyse Platform](https://stock-analyse-platform-fe.vercel.app/)** - Full-stack stock analysis with real-time data and ML-based trend prediction.
-- **[Apache Beam](https://github.com/apache/beam)** - Open source contributor to the Python SDK.
+
+### 🌍 Open source
+
+- **[Apache Arrow (Rust)](https://github.com/apache/arrow-rs/pulls?q=is%3Apr+author%3ADKER2)** - Per-column data page row limits in Parquet, plus Variant path parsing fixes and benchmarks.
+- **[Apache DataFusion](https://github.com/apache/datafusion/pulls?q=is%3Apr+author%3ADKER2)** - Marking null-propagating scalar functions as strict for better query optimization.
+- **[Apache Beam](https://github.com/apache/beam/pulls?q=is%3Apr+author%3ADKER2)** - Bug fixes across the Python SDK, including DataFrame transforms and Avro conversion.
 
 ### 🛠️ Toolbox
 
@@ -46,7 +51,7 @@
 
 ### ✍️ Writing
 
-I write about engineering, startups and lesson on [my blog](https://dker2.github.io/personalwebsite/).
+I write about engineering, startups and burnout on [my blog](https://dker2.github.io/personalwebsite/).
 
 ### ⚽ Off the clock
 
