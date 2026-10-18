@@ -1,29 +1,53 @@
-# 👋 Hi, I'm Bryan!
+<h1 align="center">Hi, I'm Bryan 👋</h1>
 
-Rising Software Engineer.
+<p align="center">
+  <b>Software Engineer at <a href="https://www.hypotenuse.ai">Hypotenuse AI</a></b><br/>
+  Building AI in production for an ecommerce platform used by over a million people.<br/>
+  Based in Singapore 🇸🇬 · NTU
+</p>
 
-Passionate about leveraging emerging technologies to tackle real-world challenges and deliver impactful results.
+<p align="center">
+  <a href="https://dker2.github.io/personalwebsite/"><img src="https://img.shields.io/badge/Website-00b894?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/bryan-dang-3424bb220/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pdanghuy03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-🔭 I’ve worked on projects that have reached millions, and I skilled in Java, Python, and Node.js, with a strong track record of designing scalable systems and enhancing process efficiency through innovative software solutions.
+---
 
-[![LinkedIn][2.1]][linkedin]  [![Gmail][3.1]][gmail] [![Website][4.1]][website]
-## 🚀 What I'm up to
-- Recognizing pain point and building applicaiton to solve it
-- Exploring AI and it's application. Quantum Computing
+### ⚡ Right now
 
-## 🛠️ My Toolbox
-- **Languages:** Python, Java, C/C++, JavaScript, C#
-- **Frameworks:** Spring Boot, Django, Vue, React, Nodejs, ASP.NET, Flask
-- **Technologies:** Docker, Terraform
+- Shipping features across the Hypotenuse platform, from AI generation pipelines to the end-to-end user journey.
+- Building developer tools for AI coding agents, like [opencode-skill-tracker](https://github.com/DKER2/opencode-skill-tracker).
+- Learning Rust on the side.
 
-## 👀 More About Me
-- I enjoy watching soccer, Manchester is red. Investing in assets.
-- On weekends, I love sleeping and spending quality time with friends and family.
+### 📈 Impact
 
-[2.1]: https://img.shields.io/badge/Linked_In-0e76a8
-[3.1]: https://img.shields.io/badge/pdanghuy03@gmail.com-d44638
-[4.1]: https://img.shields.io/badge/Website-03fc62
+| Where | What I did |
+| :-- | :-- |
+| **Hypotenuse AI** | Raised the success rate of heavy-load integrations from 89% to a 99.99% SLA. Built AI feedback loops that improve generation quality over time. |
+| **Nanolumi** | Lead engineer. Cut bugs by 90% through testing and a codebase overhaul, and reduced cloud costs by 30%. |
+| **Privyr** | Built CRM features for thousands of organizations, contributing to a 300% lift in lead-to-sale conversion. |
+| **Traveloka** | Redesigned a data conversion system, cutting processing time by 95% and cost by 90%. Built AWS usage alerting for all 40 backend teams. |
+| **Continental** | Deep learning research on multi-task computer vision models. |
 
-[linkedin]: https://www.linkedin.com/in/bryan-dang-3424bb220/
-[gmail]: mailto:pdanghuy03@gmail.com
-[website]: https://dker2.github.io/personalwebsite/
+### 🧩 Things I've built
+
+- **[opencode-skill-tracker](https://github.com/DKER2/opencode-skill-tracker)** - Local-first usage tracking for OpenCode skills, commands, tools and subagents, stored in SQLite.
+- **[Stock Analyse Platform](https://stock-analyse-platform-fe.vercel.app/)** - Full-stack stock analysis with real-time data and ML-based trend prediction.
+- **[Apache Beam](https://github.com/apache/beam)** - Open source contributor to the Python SDK.
+
+### 🛠️ Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,java,kotlin,rust,cpp&theme=dark" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,spring,react,vue,nodejs&theme=dark" alt="Frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,postgres,mongodb,git&theme=dark" alt="Infra"/>
+</p>
+
+### ✍️ Writing
+
+I write about engineering, startups and burnout on [my blog](https://dker2.github.io/personalwebsite/).
+
+### ⚽ Off the clock
+
+Manchester United fan, long-term investor, and a firm believer in weekend sleep.
