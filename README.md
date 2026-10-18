@@ -46,7 +46,7 @@
 
 ### ✍️ Writing
 
-I write about engineering, startups and burnout on [my blog](https://dker2.github.io/personalwebsite/).
+I write about engineering, startups and lesson on [my blog](https://dker2.github.io/personalwebsite/).
 
 ### ⚽ Off the clock
 
