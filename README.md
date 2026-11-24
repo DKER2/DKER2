@@ -49,4 +49,4 @@ I write about engineering, startups and burnout on [my blog](https://dker2.githu
 
 ### ⚽ Off the clock
 
-Manchester United fan, long-term investor, and a firm believer in weekend sleep.
+~~Manchester United fan~~, long-term investor, and a firm believer in weekend sleep.
